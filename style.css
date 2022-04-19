@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana;
+}
+
+p{
+    margin: 15px;
+    line-height: 2.5em;
+}
+
+a:hover{
+    color:palevioletred;
+}
+
+.doble-linea{
+    text-decoration: underline overline;
+}
+
+span{
+    font-size: 50px;   
+}
+
+.verde{color: #71ae73;}
+.rojo{color: #f00;}
+.azul{color: #00f;}
